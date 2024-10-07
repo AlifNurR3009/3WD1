@@ -22,9 +22,6 @@
 
     echo AUTHOR;
     echo "<br>";
-
-    $Mahasiswa = ["Alip", "Fathon", "Goku", "Enjay", "Rojak"];
-    echo "<br>";
 $murid = [
         [
             "NIM" => 01,
